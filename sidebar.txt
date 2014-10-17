@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dji:home|Door43 (dji)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dji|d43-dji repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dji/archive/master.zip|d43-dji.zip]]
+
+**Recent Changes**
+{{changes>ns = dji}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dji|Ethnologue data]]
+
